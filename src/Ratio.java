@@ -32,7 +32,7 @@ public class Ratio {
             // search for emoji icons here:  https://www.fileformat.info/info/unicode/char/search.htm
             // when you find one you like, scroll down to "C/C++/Java source code" and copy/paste that string
             System.out.println(BLACK + "[Your opinion]");
-            System.out.println(GREEN + "GG:" + GREEN + "\u21E7" + "783   " + RED + "RIP BOZO L: " + "\u21E9" + "705");
+            System.out.println(GREEN + "Likes:" + GREEN + "\u21E7" + "783   " + RED + "Dislikes " + "\u21E9" + "705");
             System.out.println(PURPLE + "Successfully ratioed you! yay!");
 
     }
