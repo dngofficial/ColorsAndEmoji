@@ -29,7 +29,7 @@ public class Caterpillar
     {
         // adding color to the console
         // note how you append a color string to change its color
-        System.out.println(CYAN + "Hello," + RED + " my name is " + BROWN + name);
+        System.out.println(CYAN + "Hello," + BLUE_BRIGHT + " my name is " + BROWN + name);
         System.out.println(BLUE + "and I am" + PURPLE + " a caterpillar!");
         System.out.println(WHITE + "Cool huh?");
     }
@@ -42,6 +42,8 @@ public class Caterpillar
         System.out.println("Red apple: \uD83C\uDF4E");
         System.out.println("Green apple: " + GREEN_APPLE_EMOJI);
         System.out.println("Clover: \uD83C\uDF40");
+        System.out.println("Lawer's favorite food: " + PURPLE + "\uD83C\uDF66");
+
     }
 
     // this method "throws exceptions" which is an
